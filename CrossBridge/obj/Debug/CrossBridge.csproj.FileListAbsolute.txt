@@ -1,0 +1,13 @@
+C:\Users\kerem\source\repos\CrossBridge\CrossBridge\bin\Debug\CrossBridge.exe.config
+C:\Users\kerem\source\repos\CrossBridge\CrossBridge\bin\Debug\CrossBridge.exe
+C:\Users\kerem\source\repos\CrossBridge\CrossBridge\bin\Debug\CrossBridge.pdb
+C:\Users\kerem\source\repos\CrossBridge\CrossBridge\obj\Debug\CrossBridge.csprojAssemblyReference.cache
+C:\Users\kerem\source\repos\CrossBridge\CrossBridge\obj\Debug\CrossBridge.exe
+C:\Users\kerem\source\repos\CrossBridge\CrossBridge\obj\Debug\CrossBridge.pdb
+C:\Users\kerem\Desktop\CrossBridge\CrossBridge\bin\Debug\CrossBridge.exe.config
+C:\Users\kerem\Desktop\CrossBridge\CrossBridge\bin\Debug\CrossBridge.exe
+C:\Users\kerem\Desktop\CrossBridge\CrossBridge\bin\Debug\CrossBridge.pdb
+C:\Users\kerem\Desktop\CrossBridge\CrossBridge\obj\Debug\CrossBridge.csprojAssemblyReference.cache
+C:\Users\kerem\Desktop\CrossBridge\CrossBridge\obj\Debug\CrossBridge.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Desktop\CrossBridge\CrossBridge\obj\Debug\CrossBridge.exe
+C:\Users\kerem\Desktop\CrossBridge\CrossBridge\obj\Debug\CrossBridge.pdb
